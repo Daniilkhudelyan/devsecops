@@ -1,2 +1,2 @@
 # devsecops
-hello
+print("hello word")
