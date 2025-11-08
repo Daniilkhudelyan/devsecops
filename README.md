@@ -1,3 +1,2 @@
 # devsecops
-name = input("Как тебя зовут? ")
-print(f"Привет, {name}!")
+print("бай бай")
